@@ -1,0 +1,15 @@
+D:\NeuPrj\prjNetScreen\prjNetScreen\bin\Debug\prjNetScreen.exe.config
+D:\NeuPrj\prjNetScreen\prjNetScreen\bin\Debug\prjNetScreen.exe
+D:\NeuPrj\prjNetScreen\prjNetScreen\bin\Debug\prjNetScreen.pdb
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen.csproj.AssemblyReference.cache
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\Dasboard.g.cs
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\App.g.cs
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen_MarkupCompile.cache
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen_MarkupCompile.lref
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\Dasboard.baml
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen.g.resources
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen.Properties.Resources.resources
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen.csproj.GenerateResource.cache
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen.csproj.CoreCompileInputs.cache
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen.exe
+D:\NeuPrj\prjNetScreen\prjNetScreen\obj\Debug\prjNetScreen.pdb

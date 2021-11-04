@@ -55,7 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="Dasboard.xaml">
+    <Page Include="Login.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -63,8 +63,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Dasboard.xaml.cs">
-      <DependentUpon>Dasboard.xaml</DependentUpon>
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
