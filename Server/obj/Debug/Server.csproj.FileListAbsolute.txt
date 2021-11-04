@@ -1,0 +1,7 @@
+D:\NeuPrj\prjNetScreen\Server\bin\Server.dll.config
+D:\NeuPrj\prjNetScreen\Server\bin\Server.dll
+D:\NeuPrj\prjNetScreen\Server\bin\Server.pdb
+D:\NeuPrj\prjNetScreen\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\NeuPrj\prjNetScreen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NeuPrj\prjNetScreen\Server\obj\Debug\Server.dll
+D:\NeuPrj\prjNetScreen\Server\obj\Debug\Server.pdb
